@@ -1,0 +1,7 @@
+.bg-img-colored{
+    background-image: url(../img/memphis-colorful.png);
+    background-repeat: repeat;
+}
+div.container-fluid{
+    height: 100vh;
+}
